@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#anomaly detection
+discrete_anomaly_detection_ref-Copy1.ipynb
